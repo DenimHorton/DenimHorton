@@ -17,6 +17,7 @@
 - Robot Framework 
 ### Other Notable Skills & Knowledge
 - Machine Learning: Reinforcement learning  
+- Some Embedded Programing with micro controllers
 
 
 <!--
